@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[minimum viable person]]></title>
         <description><![CDATA[minimum viable person]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/marcocalzolari/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 29 Oct 2015 14:31:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 29 Oct 2015 14:33:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/marcocalzolari/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Agile & Business Coach  Certified Scrum Master ® Certified Scrum Product Owner ® Philosopher, Trainer, Author, Speaker.</p>]]></description>
+            <link>http://www.marcocalzolari.com/</link>
+            <guid isPermaLink="false">1547ee9a-21a4-43ae-bc38-245e809c5ec0</guid>
+            <pubDate>Thu, 29 Oct 2015 14:33:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Marco]]></title>
             <description><![CDATA[<h1>Marco</h1>]]></description>
-            <link>undefinedmarco/index.html</link>
+            <link>https://thegrid.ai/marcocalzolari/marco/index.html</link>
             <guid isPermaLink="false">9d18e1eb-ffd1-406c-8a9b-fe7cb95bfbf4</guid>
             <pubDate>Thu, 29 Oct 2015 14:31:45 GMT</pubDate>
         </item>
