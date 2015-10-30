@@ -1,24 +1,36 @@
-name: marcocalzolari
-favicon: null
-layout_spectrum: 0.31279
-typography_spectrum: 0.5584807302802801
 title: minimum viable person
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.5734767
+  brandStrength: 0.6331872993614525
+  lightness: 0.7903226
+  brandColors: []
+  rhythmicContrast: 0.6834862
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: marcocalzolari
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors: []
-  brandStrength: 0.6331872993614525
-  lightness: 0.7303447180893272
-  saturation: 0.04672202514484525
-  rhythmicContrast: 0.6834862329997122
-purpose: []
+typography_spectrum: 1
+layout_spectrum: 0
